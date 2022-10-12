@@ -1,0 +1,6 @@
+framework module Pods_BroadAppsUnsplash {
+  umbrella header "Pods-BroadAppsUnsplash-umbrella.h"
+
+  export *
+  module * { export * }
+}
