@@ -1,6 +1,8 @@
 # BroadAppsUnsplashPhoto
 
 ---
+## Technology stack: Swift, SDWebImage, URLSession, CoreData, UnsplashApi.
+---
 
 ## Screens:
 
